@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/RandomGif-ReactJS-/static/css/main.5998454f.css",
+    "main.js": "/github.io/RandomGif-ReactJS-/static/js/main.9d1b05d1.js",
+    "index.html": "/github.io/RandomGif-ReactJS-/index.html",
+    "main.5998454f.css.map": "/github.io/RandomGif-ReactJS-/static/css/main.5998454f.css.map",
+    "main.9d1b05d1.js.map": "/github.io/RandomGif-ReactJS-/static/js/main.9d1b05d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5998454f.css",
+    "static/js/main.9d1b05d1.js"
+  ]
+}
